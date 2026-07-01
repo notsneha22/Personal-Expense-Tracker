@@ -102,24 +102,6 @@ Travel : ₹850
 Bills : ₹2400
 Entertainment : ₹900
 ```
-
----
-
-## 🔮 Future Improvements
-
-- User Login System
-- SQLite/MySQL Database
-- GUI using Tkinter
-- Expense Editing & Deletion
-- Search & Filter Expenses
-- PDF Report Export
-- Monthly Email Notifications
-- Expense Prediction using Machine Learning
-- Web Version using Django
-- Mobile App Version
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped me understand:
@@ -138,7 +120,5 @@ This project helped me understand:
 
 **Madhumita Barpanda**
 
-GitHub: https://github.com/notsneha22
 
-LinkedIn: https://www.linkedin.com/in/madhumita-barpanda-8a447b350/
 
